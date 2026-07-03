@@ -1,4 +1,4 @@
-Survey Data:
+# Survey Data
 
 Solon designed a survey for The Video Game History Foundation to run from May 7th, 2026 to June 3rd. It was posted as a banner at the top of the VGHF digital library for any users to click on and a call-to-action was added to the monthly memo in their email listserv. This led to 144 responses which was pared down to 135 considered valuable data. The survey was designed to find out who the VGHF's natural users are
 
