@@ -1,0 +1,369 @@
+media history. I think it's the biggest difference between what media history has done and what
+video games is doing has to do with copyright. Yeah, that's that is the absolute
+linchpin. So other than the video games kind of flying by the seat of their pants right now,
+trying to figure out 50 different things at once. So the first thing I did since I lived in
+Maryland close to the Copyright Office was I spent a day or more at the Copyright Office
+checking the copyright status of every magazine. Oh, yeah, that is that is extremely similar with
+what the VGHF is doing since their collection is extremely magazine based. Oh, oh, okay. So
+that's been the only since we can't archive video games the the heritage has
+formatted around games magazines from the 80s and 90s. Oh, oh, okay. Okay, since we know we can
+do that. And there. So the VGHF's collection is actually it's super one to one. They have
+physical archive and all of the stuff in that is scanned and put into their own database.
+Oh, okay. So that's how their methodology has been for the last four years or so.
+Okay. So in our case, I knew any magazine from 1964 to the present, the copyright was automatic.
+Yep. So those were off the table. Anything from 63 and earlier, the copyright could have
+expired or could have been renewed. And I found that very little, very few publishers renewed
+their copyrights because the magazines were seen as so ephemeral. Yeah. So I have a chart as far as
+what's protected by copyright. And we've been conscientious on not digitizing copyrighted
+materials. There was one bit of British material, which had copyrighted and the British publishers
+showed up. And because the Internet Archive can't region block. Right. Access. It was easiest
+just to take those materials down. So the file was still on Internet Archive servers. They are
+just not publicly visible. That was that was actually going to be a bunch of. And one of my
+questions was, you know, how how it works when you have to take stuff down and part of that legal
+access between. So yeah, because your collection has a lot of it's very international. Right. And
+so I handed over the collection, the project in in 2017, when I went to work at the Library of
+Commerce, and the library said you can't run, be involved with two libraries at the same time.
+So my partner, what I know. Sorry. I've only been a librarian for like two years. I've just in
+this program. I have never heard that. Well, there'll be a conflict of interest to have
+yeah, in library management collections and stuff. Well, if I'm doing working for the
+library during the day and freelancing work for a separate nonprofit. Nonprofit. Okay. So I
+hand fortunately, I was able to hand it off to Eric Hoyt, who's now he's a professor at the
+University of Wisconsin Madison. He's head of the Wisconsin Center for Film and Theater Research.
+So he's perfectly positioned to take on that role. And it also meant that the lantern surge,
+which once had been a server at like on the floor by his dad, kind of his thing, right? Yeah,
+did a lot of work on lantern. Yes. And that then became a university sponsored and supported activity.
+Okay, because that suddenly makes the nonprofit a lot more stable. Well, and there really is no
+nonprofit anymore. It just becomes an activity of the University of Wisconsin Madison.
+I guess, yeah, the way that I'm thinking about it, just because of how video games have been
+shaped right now is we're struggling with not folks going into a nonprofit space looking to
+preserve artifacts within video games, and then not having a landing pad for any of that. And
+then the nonprofit dissolving and the election kind of going to the winds. Yeah. So when I worked
+at the British Film Institute, the the funding bodies had a phrase for that, which I thought was
+really good. They said it's the issue, the issue was sustainability. So the funding bodies in the
+UK, they might give say $3 million to a museum to catalog a collection or something. So the
+museum would hire 10 people for three years for that. And then those people would disappear.
+And sometimes the museum, you know, was basically living from grant to grant.
+And that's no way to live. And there was no organization to like take over
+when the grant funding ended. So an important thing always looking for is what is your plan
+for sustainability? And you know, the rich person who's been sponsoring this no longer wants to do
+it, you know, you're all that. Well, that's where the internet archive was so useful, because they
+would digitize and they basically would, you know, promise to host as long as they were around.
+And we were are such a small portion of their overall collections that if anything happened to
+them, I'm pretty sure there'd be some kind of rescue effort. So yeah, you know, want to keep
+a backup. But at the same time, not too worried about them going away. And I would rather have
+media histories files on the internet archive servers than on some other server where we have
+to raise money to cover the hosting costs. Yeah, yeah, because that's that is basically where the
+VJF is at is that we're going, you know, fundraiser to fundraiser. And since there isn't another
+larger game in town that works for right now. But it is tentative. It's super tentative. And
+then worst case, if everybody gets hit by a boss, the index goes away, but the files are still on
+the internet archive. And people can still access the raw content. Yep. And, you know,
+also means that if anyone else wants to create their own search engine, without the hassle of
+having to digitize things, they can do it. But nobody's done that so far. Because that's a pretty
+complex activity. But the sustainability was really the big issue. And people, you know, with me,
+well, David, I'm going to give you, you know, write this check. But how do I know this will
+still be around in 10 years? Yep. You know, because so many independent projects don't make it. And
+there are plenty of organizationally based projects where the, you know, the, and this was true at
+the library also, where there's a server upgrade. And whoever was the internal advocate is no longer
+there. And that activity, you know, goes away with a server upgrade.
+Okay. So I saw in your, it was in the about us or somewhere in there, that you have data endpoints
+for pulling and mass from stuff. I don't know if that's still available or accessible, but
+I saw at some point that there was ways to query the whole collection in certain ways.
+Well, Eric has sponsored a number of things because from his point of view as an academic,
+he has to take this corpus of material and present it as a research project.
+Okay. Right. So if you go on the website, there'll be narrative descriptions of each of the
+categories of magazines. So there'll be, you know, a page and a half on trade magazines,
+a page and a half on fan magazines. And then for each journal, there's a write up on each journal.
+And that's trying to put it in an academic, scholarly, rigorous context. And among the projects he's
+done is an N-gram project looking at, you know, word frequency. Oh, cool. Okay. Yeah. And that's
+available off. That's fun being page. And then they've done a number of academic type projects that
+involve a big data analysis. Okay. Yeah. As far as frequency of, you know, references and all that,
+which are fine if you need to get tenure. And I guess the phrase that the academic
+shoes is digital humanities. Yeah. So how do we present what's a pile of old magazines that have
+been digitized as actually a cutting edge activity? And that's something that Eric and various grad
+students have done a good job of. Okay, that no actually explains a lot. Because yeah, one of our
+when I had a digital humanities class, it was about how do you activate work for big large
+corpus of data. And we haven't quite gotten to that part of like, okay, we know all these fun
+ways we can play with stuff. We know all these resources that can be digitized and used with this.
+We don't have a way to like make projects consistent and available and accessible,
+like a project management core to that. Right. Right. And so that's hopefully going to be the
+next steps in that because it's it is a very fun process, but it's also very easy to get lost and
+how exciting and fun that processes that end up with. All right, we've analyzed a bunch of words
+on pages. Yeah, yeah. We know that there's, you know, 15% of this here and 20% of this, does it
+mean they were getting there. But okay, so have you seen MHDL as like a use in that case, or as
+as as his Hoyt? That I'm more interested in in topics such as the regionality of the magazines.
+Okay. So, yep. Now pretty much everything's published in New York or Los Angeles,
+but back then there are a lot of things come of the trade magazines, for example, during World
+War II, there were 14 national trade magazines. That's right. You know, variety, variety, motion
+picture Harold, motion picture daily box office, motion picture exhibitor, et cetera, et cetera.
+And I'm interested in like who advertised? So which studios advertised publications?
+Did that affect the coverage from those publications? You can go into the
+AR, A-Y-E-R metrics to see for the advertisers, they did audits of the publications so that you'd
+get reliable print runs, so that you could say, well, yes, these magazines you hold them in
+next to each other and they seem similar, but this one had five times the sales of the other one.
+Really, they'd be that similar. And in fan magazines, you can really see which
+magazines had the national impact. There were local fan magazines and there were fan
+magazines with 5% of the circulation of the big fan magazines.
+Oh, does that show up in the like circulation numbers of magazines that show up in the
+metadata anywhere or something? Yeah, if you go into the internet archive page for Media
+Studio Digital Library and search on AR, A-Y-E-R, I think it pulls up a spreadsheet that Eric put
+together. Oh, cool. That's fun. Okay, because yeah, that's a huge amount of like
+easily context for a type of information. Okay, yeah, I have the top 40
+collocation that you put together up and I just was having a great time wandering around on it
+just because there's so many collections that are put together and curated on the site.
+But the top 40 was just like, oh, yeah, nope, there's all of the backbone of film media of the
+early 20th century. Yeah, yeah, so that helps you figure out
+how indirectly likely packed. Yes, yeah. Yeah, yeah, that's that's so funny because I think
+that's a lot of what is being measured right now. Since the digital archive the VJF put together
+launched two years ago, so it's still super brand new. They're still trying to figure out how
+how to identify if someone is using the archive and what that means and what that looks like
+on the output. And the advertisements have been one of the like most grabable parts of
+all of these works just because they're trade magazines that that have a lot of spread and a
+lot of fandom. But the advertisements are just so aggressive. They're so in your face about
+and looking back on them now, that's the thing that catches everyone's eyes. And so
+I'm glad that you mentioned something about the advertising because yeah, that's the kind of
+the same place that they're in right now too. So Eric, I, Eric, can I agree that we did not want
+to require people to register to use the purpose. So really the only way of knowing who's using it
+is by looking at the search queries. That is the same with the VJF was they didn't want anyone
+to have to they didn't have to put up a barrier for any reason. And that if there was materials
+that suddenly had certain prerequisites, they would rather take that off than have to manage,
+logins or even we don't even do cookies. There's I there's no like cookie management where it
+tracks people from page to page or anything because that's just that's outside of the scope of what
+they can do right now. It's two people managing an entire archive and having the entire video game
+industry look at them to as the like only standing archive currently for this kind of material.
+So since Eric took it over, they put on copyrighted materials with permission of the rights holders.
+And that certainly is something I would have loved to have gotten to, but I was off the project
+before it got to that point. My interest also was really in the pre 1964 era. So I'm still
+bringing together materials and getting them scanned and raising money for digitization. But
+I'm just kind of doing that freelance, you know, getting to the local internet archive scanning
+center and, you know, creating the metadata records and all that. From a couple of folks that I've
+been talking to, I think this actually applies a lot more here just because of the material.
+Since you are interested in pre 1964, is that date because artifacts are just a lot more common
+after 64? Or is there a publication that has to do with the copyright law?
+Is that okay? So that's all copyright driven.
+Yeah, yeah, because for pre 1978 works, there was a provision where you'd get an initial
+copyright term of 28 years and then you could renew for an additional 28 years.
+You had to file for and that 28 years became 47 years for the renewal.
+But starting with works that were published in 1964 through 1977, they made a law change
+which made renewal automatic. Okay, so that just puts things on ice.
+Right, right. So pretty much if it's pre 63 chances are it wasn't renewed and I know how to
+check that and at the Library of Congress yesterday, I didn't go to the Copyright Office but it was
+right there and post so I know like what was renewed and what wasn't and I just avoid the
+things that were where the copyrights were renewed because I don't want to have to scan something
+and take it down. And I don't want a website where like your 90% of it is 100% clear but the
+dodgy stuff damages your reputation. Yeah, public blog post, oh, Media Street Digital
+Library stole my stuff or my granddad's stuff and we just wanted to be clean as could be and also
+we had early on gotten 600,000 pages from the Library of Congress,
+Packard Campus. And that was another reason to be a clean organization because if we're
+associated with a library and that was before I worked there that I didn't want to be on like
+both sides of the street, oh, we can use this because it's public domain and oh, we ignore copyright
+because, you know, we don't think you're going to successfully sue us. Yeah, did you have anything?
+Oh, yeah. Did you have anything as like hard written down policy for those kinds of middle ground
+areas? I had submitted a project proposal to the Library of Congress staff which led to them
+using their money to digitize 600,000 pages and it was an appendix in there in terms of what was
+renewed. Oh, that's perfect. Okay. Yeah. No, that's that's just makes sense that how it would
+manifest inside of a appendix. Yep. Yeah. Because I wanted to demonstrate to them that I done the
+due diligence. Yep. Interesting. Okay, cool. Because yeah, there's going to be just a lot of
+gray area that you need to harden suss out once you're once you're involved with Library Congress.
+So I was asking about the the pre 64 fast-station stuff just because
+was were there any like artifacts or stuff that came up a ton of times where you had to make the
+choice to be like, all right, we don't need all of this. When I was talking yesterday to
+Australian National Film and Sound Archive, the curator's talking about they would keep getting
+wonderful family heirlooms from people of the Queen visiting the in like 1954 or something and
+they would be like, I'm sorry, your your family heirloom is really not valuable to us. Right,
+or we already have common. Yeah. Are there any like just common materials that you were like,
+all right, I got to avoid this and trying to look for rare materials or was it is it far enough
+behind that that was easier to suss through? So these things maybe once were common in
+libraries. So I've been to public libraries like in Baltimore and they had whole sections where
+they had bound film magazines fan magazines. But back in the 70s, when these things started to be
+microfilmed, they would often buy the microfilm and surplus the bound volumes. So many institutions
+have some of the things that are online in microfilm. But you know, these days a student you show a
+student microfilm and what's involved and it's like they just know, but they're hard to argue
+with how much easier the internet is to use. So if it's if it's not digitized, it might as well
+not exist for most users that the convenience outweighs the comprehensiveness and the lack
+of searchability for microfilm. You know, it's a whole different approach where you go to the
+like at the library yesterday, the reader's guide to periodical literature, which was an
+indexed magazine articles. And I remember going through and you'd go through that, you'd get
+your citations and then you'd pull the microfilm and print out those articles. And no one's
+going through that kind of hassle now. No, no, and and I get it. It's as much fun as it is.
+To go into the archives like that. Yeah, that's a big reason why the VJHF there
+the reason it's been so focused on printed materials is is because that's been people
+understand what a video game digital object kind of is in that it is a program that can be run,
+it's software that can be played, but they don't know what goes into that. They don't know what
+comes out of that on the peripheries. And the physical material often elucidates all of that.
+So development documentation, advertising copy, trade show magazines, and the like all kind of
+paint a much wider, larger picture. And then all of that can be OCR. So yeah, once that's been the
+big thrust is that since they can do all of the work to scan an OCR. A magazine really easily
+that that's just that's that's the end point for that kind of material. They have it on the
+shelf physically and then they have it digitally in an OCR way, which is which just makes it really
+easy to search through everything. But yeah, with with the media history digital library,
+this is something that came through in before 2019. And so I don't think that was because of
+the backbone of it is the internet archive. That level of identifying the material in it is a
+kind of out of scope of just how those whole all those systems work.
+Right. Right. So what are those? What other questions do you have? Yeah, I didn't have a
+question off of that. I thought I thought it would be there. But yeah, so I do have just a whole
+bunch of questions. I want to figure out which things we've already touched on, which things we
+haven't. Back end. Yeah, we talked about that. Measurement tools. We talked a little about that.
+Oh, I want to know while you were working with the MHDL, how did projects develop? Did
+you were driving all of the project or, you know, collocations and curations and groupings
+and stuff? Or was there anyone else that would be like, Hey, I need this and you would
+work in that direction? So
+my strength was knowing where the magazines were. Okay. And knowing people who were willing to put
+up money to fund the digitization. And those were definitely separate people. And sometimes the
+people who were willing to contribute at something specific in mind, other times I would say,
+yeah, I've been offered this collection and I can borrow it. But it's going to cost me
+X dollars. And I'd done some estimates as far as how many pages per shelf foot so that I could
+estimate what the cost would be. And that gave me the ability to get both general funds and
+specific funds. And then we would put a slip of paper at the back of the magazine, which would say
+this is from the collection of so and so, the digitization was funded by and sometimes have the
+well, and then we would have the website for Media History, Digital Library. I would,
+let's see, what is the thing I wanted to mention? Okay, so there were physical aspects to the,
+yeah, yeah, the collection.
+Let's see, it was about the people with the money. Oh, and then I tried to get money out of
+university libraries. Yeah, and they said, well, we kind of have to pay for a specific thing. We
+can't really contribute to an, you know, an activity. So what we set up with a couple of those,
+including Columbia University, was where I would sell them digital files. So I, you know,
+I would sell them 10 years of motion picture herald. Okay. And then go and digitize those
+magazines and then point them to the links on the internet archive site and say the work is
+completed, you can download the files now. Simple as that, really? That was enough to
+be considered. But that was the sort of thing that the institutions understood, right? So if
+they're putting together a purchase order, that fits the other purchase orders that the library
+does, where they are buying historical content in digital form. The difference was that I was
+digitizing it on demand that the files weren't, you know, but I would not sell them something
+that was already digitized. Yes, of course, that would work just for them. That process
+makes so much sense. And then everyone else could benefit from the material that they had funded.
+And it would, it would be just a really easy endpoint for them to link to and say, all right,
+this is what we did. This is what the money did. It got this material digitized. And so yeah,
+it was just your way of linking, how do I talk to private investors? How do I talk to universities?
+How do I talk to folks who have collection materials that would be good in the archive?
+And that would drive projects. That's, yeah, that makes perfect sense.
+Okay, was there, do you have any, were there any other peers? MHDL seems so
+vast, it's just such a wide amount of material. Are there other, you know, film and movie
+crews archiving this kind of material in other ways? No, a pro quest there are
+consequently set up a product for film, television, and recorded sound, you know, the record industry,
+called entertainment industry media archive. And that's kind of a commercial version of what we
+did. And it goes through to the present or close to the present. But they're really interested in the
+mainstream publications. So variety in Hollywood report, a lot of what they have is off a microfilm
+because it could be done quickly and cheaply, or it's from bound volumes where the OCR falls
+apart because, you know, they didn't separate the pages or do the scanning very well. And
+they only have weekly or monthly publications. So daily publications like daily variety and
+motion picture daily and film daily, they don't have at all, because they made a curatorial decision
+just to focus on the the weeklies and the monthlies. So they're there, they by my definition,
+they're missing a lot. By their definition, they have the brand name, you know, familiar
+types. Okay, no, that's exactly that's okay. So these are all there's a lot of these magazines,
+especially like variety that have extended into the modern day. Do those do any of those companies
+all use the MHDL for their any kind of history, grab it on to I wouldn't expect it, but no, we are
+if anything, just an academic thing. And since 63 was what over 60 years ago,
+it's hard to argue or to think that putting something from 1963 online is actually causing
+any damage to varieties product. When stuff those commercial users will be interested in the 80s
+and the 90s, yeah, thousands, and not in the, you know, over 60 years ago content. So I don't think
+that there's really any conflict between the two activities, but they would certainly shut us down
+in a heartbeat if it could. But because of they didn't renew their copyrights, they don't have
+that ability. That's interesting. And the most of this, these things have been either
+they went out of business and the grandchild owns that. Yep, right. Because they never,
+the corporation was basically, you know, it was a family corporation or something like
+Variety and Hollywood Reporter that's gotten rolled up into a much larger publications company.
+Yeah. Right. Because yeah, once, yeah, those modern publication companies are going to be
+much larger and more webby than just a single magazine. Interesting. So, okay, then,
+man, we could really get through all the things that I was wondering about. Oh, um, did you,
+have you ever gotten to show off the collection to anybody? It was like, as in a, like, showcase
+or an exhibition or a, has it gotten to be presented in any kind of, oh, yeah, it's, I presented
+conferences in Erica's presented at conferences. Yeah. And that's just at film conferences,
+academic conferences, conferences, the motion picture academy had a film librarians conference
+at two and a whole. So it was specialty libraries oriented toward motion picture
+print materials. And yeah, we presented it at that. Okay. And when you present, is it like
+showing the materials or just presenting the library at large or? Oh, it's more of a, how we did it.
+Okay. You should choose something and do it too. Oh, I like that. Yeah. You should do this for
+dance or you should do this for, you know, something else that media history digital library. We don't
+want to get into like, like be so broad that it loses its focus. Eric is adding a lot of content
+that is, you know, right at the edge. That's like right now, they've been adding some of the
+materials out of the United Artists Collection at the University of Wisconsin Madison off microfilm.
+Yeah. So ledger books of financial of income from individual film releases,
+which is, I mean, I'm happy it's online, but it, you know, kind of blurs the definition of what the
+collection is beyond just traditional print to archival archive records. That's super important.
+The edges of a collection are, I'm just surprised because it seems like such a,
+a collection that is very focused. And so hearing that there is those edges is like,
+okay, that's, that's really cool. Yeah. Just because that leads to more different ways of growing it
+and could lead to different types of people to latch onto and to grab onto. Okay. No, that's
+the edges of our collection are all about. Like, if we get a prototype board of a video game,
+we can't digitize that, but it becomes a like, all right, how do we, who do we give this to host,
+who do we, or if we're taking it on, how do we preserve it in a way that makes sense,
+what can we legally put onto the internet from this, from whatever the, if it's a prototype board,
+it might have a company attached to it, it might not. Right. There's one more point I want to make
+and then I need to get off, which is that the, the organizations that loan the print, that loan the
+magazines and the collectors who loan the magazines, if I had asked for their film collections,
+they would have said no. Yes. There's something about magazines where you really don't, you don't
+think you have the only copy? Yep. So even though I digitize the magazine that belonged to the
+collector, they don't feel they've given up anything because they still have the magazine.
+And they know that I could probably have found it with somebody else. So I've taken their magazine
+and made it easier for them to use because they can look at it on their computer, they can search it,
+and they haven't lost anything as a result. So I found organizations like the Museum of Modern
+Library was just wonderful in letting me digitize all the film related publications they had,
+and that would, but at the end of the day, all those publications are back on the shelf,
+and they were also digital copies, but they don't feel they've lost anything because they still
+have those bound copies on the shelf. They just checked them out to me for three months.
+Huh. Oh, well then, yeah. Yeah. And that's the same thing with the production of materials and
+games. We'll have people who just are like, this is clutter in my desk. I don't know what to do with
+it, so please take it out of my hands. So yeah, finding where folks are willing to let go of
+materials. Right. Right. Exactly. Because the magazines were produced in thousands of copies,
+even though often I'm convinced that I have the only copy, or that collector had the only copy,
+they're usually willing to let me scan it. And then, yeah, and if they can, yeah, was it,
+was there any difficulty with having materials coming in and then getting it back? Was that
+it wasn't too heavy weight or anything to pretty like, yep, you'll see it in two, three months,
+Oh, I'm detailed. And also with the internet archive, I would like with the museum of modern
+art, I would drop off the boxes that had everything in it, and then I would pick them up from the
+scanning center. So there was a complete chain of custody. Oh, awesome. Okay. That was kind of
+what I was poking at was how materials come in, how they come out, because it's a digital archive
+and stuff. Yeah, with the VJF, because it's so centralized, they just have a lot of material,
+and half of it's unscanned, half of it's scanned. And so they'll get a box of stuff in from someone
+who's like, do something with this, and they'll go, maybe, hold on. You might see that box in
+six to 12 months, if there's anything we can do with it. Yeah, I don't think I have any other
+larger quiz. Oh, I'm sorry, this is a good final question, just for for everything,
+because it's the main thing that I've been focusing on. With nonprofits as a solution to
+just the general US, like do it yourself mentality, where we have we're building archives and trying
+to make them sustainable, but a nonprofit strategy is not always the best thing. Sometimes it is the
+best thing. And you've given me so much to work with as far as how you can make that be a thing
+that lasts longer than the nonprofit itself. I'm wondering just how you like just philosophically
+decided on getting magazines into a nonprofit space, why why it was that part of film and media
+archiving. And how just how that transforms from a nonprofit or into a nonprofit space.
+I don't know. Makes sense.
+That's the content that interests me is the magazines. And I researched and found magazines.
+I mean, back when I was a kid, going to library, these and the one of the collectors I worked with,
+he said, quote, the history of the film industry is in the trades. End quote. So, you know, the
+detailed history is in the trade magazines. And that's what interested me. And I knew that I could
+bring all of the elements together to history and librarianship before this, because I hear the
+awe. That's that's the thing that I get to is more of a film archivist and historian. Yeah.
+But the other element of it. Oh, is that for me personally, by nature, I'm not a collector.
+So I don't feel a desire to own these magazines. I'm I'm quite happy to have them pass through my
+hands. Occasionally I would have to buy something in order to be able to scan it. But then I would,
+you know, try and pass it on to an institution. And so I doing this project gives me research
+access to this material, which otherwise I wouldn't have. So I've certainly, you know, and I know
+the collections and I know the search engine and I can find stuff that no one else, you know, can
+find because they get it's and I can do the search to get down to, you know, where the actual.
+So having just having someone who's activated in a way where it's like, okay, I have
+this, this awe and this desire for this, this topic. But I do not have the desire to like keep
+it. It's not about ownership. It's about making sure it's successful and available to everyone.
+And then that's how you start to get the bubbling of a non-profit. I think that makes perfect
+sense. Thank you. No, that's I know it's a little bit of retreading of stuff that we've kind of talked
+about throughout today. But no, it's a beautiful answer. I love that. It's to kind of cap things
+off. I've talked about how the VGHF has like this, this preservationist fervor around it.
+And it comes from two years ago, yeah, it was three years ago, the reports that the VGHF produced
+said that we are in our silent film era. And they said that as a threat, that the materials of video
+games are at the same preservation levels that silent film is. Yeah, I did the study for the
+Library of Congress that actually came up with the metrics on that for silent features. And
+I think in all formats, 25%, but silent films that were originally released in 35 millimeter
+American release version, I complete, I think was like 14%. So it was really 17 whole percent.
+And so that's where after that point, just a lot of fervor inside of the industry came about and
+trying to figure out how to focus that preservation aspect is difficult, is is trying to figure out
+how do you, if people want to be collectors, if they want to be preservationists, if they want
+to be archivists or librarians, how do they make that happen so that they don't just get excited
+for a thing and then collapse once they realize that there's not any money in it.
+Okay, well, I hope this has been helpful for you. Absolutely. It has been no. Thank you for the
+time. All right.
+Just getting to talk to you and getting to see all the NHDL stuff is so fun. And let me know
+right we did. Oh, yes. Yeah, definitely. I we're going to publish a it should be the
+capsule should end at the end of June. And so it's very, very quick turnaround. But once we have
+a collection policy, that's the whole goal is just because there's so much focus on this
+organization. They're just like, how do we keep our inbox from having this many emails?
+And so that's my job, basically. Great.
+It's just stemming emails. All right. Great talk of it. You have a great weekend.
+All right. Bye.

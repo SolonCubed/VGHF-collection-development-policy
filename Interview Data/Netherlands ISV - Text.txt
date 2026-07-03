@@ -1,0 +1,928 @@
+start the recording, you know, make it bigger. So
+deal with all this video and audio I presume. Yeah, yeah. Just doing the video of the screen.
+Perfect. Yeah, I've got I've got a whole bunch of questions, a whole bevy of stuff.
+Just to start with, I know that, at least from what I saw, it looked like you started in this
+role in 2021. Yeah, that's, well, formally, I started for the archive in 2022 or 2023.
+But at sound and vision, I've been employed for over five years. Yeah.
+Okay. So you didn't start at the, as the game's archivist, is that a role that
+evolved or how did that come into? Yeah. So to understand that, you need to
+understand sound and vision a little bit more broadly, I suppose we are a, the National
+Archive for Audio Visual Media in the Netherlands. That means that we are working closely with
+the national public broadcasters to make sure we can preserve radio and television. And we are
+not a government organization. We are primarily funded by the government, but we are a separate
+foundation. So similar to, if you GHF, we don't need donations in that sense, but we are always
+working for new methods and ways to preserve things. And so when I, when I got here to
+games, preservation program was already running that had begun back in 2017, formally. And we
+had someone working on that and they didn't have full dedicated hours for it. They were having like
+one day a week and then three other days for other stuff. And I started in 2021 specifically for
+the redesign of our museum. So aside from us being an archive, we are also a public museum and we
+are also a research institute. So we are a space looks gorgeous. Well, yeah, we have over 400
+employees. So to kind of give you the width of like how big our organization is, we are very large
+in that sense, comparatively. And so the games preservation program was already running. I
+came in in 2021 to start on the museum, because our newly designed museum had a section dedicated
+to films, television, but also video games. And they were looking for someone with an expertise
+in video games. And I read the application and was like, that's everything except my name. So
+that's how I applied, got in as a games expert. I helped out with the museum. And when the museum
+was nearing its completion, I decided to shift to the archive, because I wanted to stay around and
+do video games for as long as I could. And that worked out great. And so I've been here ever since
+working on the archive for the Dutch video games. There's a lot of parts of that that make a lot
+of sense. I happened to know just a little bit about the Netherlands structure. I got to study
+abroad there last year, studying the libraries and museums of the area. And so that's cool. Totally,
+I partially understand how the museum funding structures work within the Netherlands,
+because it's just a fascinating process. I got to kind of see it firsthand to what extent
+video games carved their space into that the the National Video Game Museum that's in
+right. Yeah, remember the city. It's a small place, but it's so cute there. I love that spot.
+But yeah, that that is an arcade that is functionally an arcade. But as a museum space,
+it means that they get national funding to help out with some of the parts. And I'm talking to the
+people who work there. They also have a little bit extra where services that they provide.
+They can, they can kind of gain different money from various services that they put together.
+So thinking on that, is that a thing that you've got to do where you've gotten to develop services
+around video games over the last few years? Yeah, that's that's just curating a collection.
+We're going to get to that. But yeah, my first thought is just like, what kind of services
+can you use video games leverage that excitement for to to build up a space? That's very interesting.
+So our our Institute works on multiple levels in our primary goal and function is that radio
+and television television archive. Like that is our function. That's what we get our money for.
+The things we do on the side, like the museum, research projects, other ways of making revenue
+that goes back into the Institute. And so formally, my work isn't covered by the 70% of
+our budget that is funded by the government, but the additional 30% that's how my project is funded.
+And it's also embedded into the organization. So I'm not on a temporary project or contract.
+This is part of our Institute, but it's funding wise that works a little bit differently,
+which means that we don't need to put out requirements or requirements or deliverables to external
+organizations. We don't need to do video game repairs. We don't need to do consulting or that
+sort of thing. We are a public Institute, and that is our primary function. So I can just focus
+mostly on acquiring materials for a collection and reaching the collection, keeping the collection
+playable, and also documenting a lot of our research and processes and keeping contacts
+with the Dutch games industry and developments. Oh, okay. Yes, that is that opens a whole
+can of worms before we even get into collection stuff. Yeah, keeping in touch with the Dutch
+games industry. Yeah, does that because that's the part I don't know a lot about. It was
+when I went to the Netherlands, I looked into that it was it was impenetrable to fuck out like
+what is really I just I was that was a bit struggled with. I was based in Amsterdam.
+Oh, man, it would have been I would have gotten you everywhere. And that's so that's such a shame
+for you. Yeah, no, I was looking through the the university side. So I ended up getting to
+interface with direct and awesome. Yeah, you all spur of office? Yeah, we're in a class.
+We got there. They were my former professors at the University of Utah when I did game
+studies as a minor. I was wondering I was wondering because there's just
+a lot of the things that I've gotten to do and study over with my undergrad a decade ago and now
+is kind of just rotated around Jasper. Yeah, makes sense. But yeah, no, I want to know what
+does that look like for you interfacing with that because that's one of the few things that we
+could actually accomplish in the US. Right. As games librarianship is is not really a thing.
+There's not really games archivists that could be paid through the same kinds of structures,
+but there are groups that can independently interface with like for me in Seattle,
+the Seattle Indies is just a bedrock of really important stuff. Yeah, super resourceful.
+Does that so come across for you? How do those connections get made?
+So it works on two levels, I can tell you. And the second one goes back to policy. So I'll leave
+that for a little bit. But the first one is our connections to the Dutch Games Association,
+which is the Federation for developers themselves within the Netherlands.
+Because the Netherlands is so small, it is very easy to get in touch with anyone. Like,
+it is it is always like one one to add most two tiers removed. So it's not that hard to get
+in touch with people. But what was harder in the beginning, especially, was getting people to
+accept us doing this work alongside developers. The thing is because we are so closely attached
+and perceived to be next to the public broadcasters, there was this preconceived notion that we were
+very much like reinforcing the biases from established mainstream media. So like, why would we collaborate
+with an institute who has been kind of helping to determine that games are like only for boys,
+cause violence, cause addiction, right? That's not something we would like to collaborate with.
+So our personal outreach to the Dutch Games Association and developers was essential in us
+getting a foot in the door to make them understand like, no, we are not part of like the public
+broadcasters. We are a separate organization and we want to preserve your work as part of Dutch
+cultural heritage. So our approach was a lot broader in that sense. Like it was very much like,
+we're not going to tell you to do something. There's no legal law requiring us to do this.
+We think it's important because it tells you something about our cultural heritage
+in the Netherlands and games are part of that. So that was really the reason when I was starting
+when I was like, okay, we should really talk to developers and get them to understand what
+we're doing just in part to prepare them for when 50 years down the line, they have projects that
+are done, but cannot be preserved. So we want to kind of plant those seeds in advance to make
+sure that they know what to do, who to reach out to, and what our role is within that larger ecosystem.
+So it's very much a...
+The Seattle IDs, yes.
+Yeah, and again, our advantage here again is the Netherlands is so small. So when we reach out to
+just Games Association, they were holding monthly network lunches. I could get in touch
+with developers. They have a yearly annual event called Indigo, which was also a very good way
+to meet people. We went to Gamescom as part of a delegation to kind of show like, hey, we are
+making the moves, we are not just observing. And of course, you know, I'm playing Games
+myself. I keep an eye out for what's happening. I write about Games as a journalist in my spare
+time. So I can kind of combine those layers into reaching out to people that I think, hey, you're
+making something interesting. Let's talk. Have you considered preservation?
+And 99% of what I'm going for. Sorry, I said that side.
+Actually, I write for an American outlet called Nintendo World Report, which is the US website.
+Actually, one of the oldest Nintendo websites around. I think John Reardon actually does video
+editing for the VGHF. Phil and Frank will know him for sure. And then in the Netherlands, I also
+write for another more national outlet on a freelance basis. Yeah, it's just a side gig,
+because I like, I can do this full time. So it's for me. It's got the imagination.
+Yeah. Yeah. I'm glad I don't need to depend on it for my livelihood, so to speak.
+So when we got in touch, it took quite a while of massaging them into understanding what we
+wanted to do and how we wanted to achieve it. But once that got rolling, it really helped as long
+term, because people now recognize us, they know us, they know what we do. We've been very
+much waving a flag to be as visible as possible, which helps us in being approachable, like people
+know who to reach out to. And even when our general help desk downstairs gets an email like,
+hey, we want to do something with games preservation, they know to reach to me or my colleagues,
+so that helps out a lot as well. Getting to ask them, prompt them for this, then getting your
+response immediately. I was like, thank goodness. Yeah. Yeah. People know how everywhere else.
+No, I get that. And I try to be very visible. And the thing is like, we are also a very,
+very small cop within this larger Institute, right? So we have over 420 employees, I believe,
+and only three of us are working on games and only I'm the only one who can do it full time.
+So there's still like a layer of like people understanding us or not understanding what we do
+and when to reach out to us. So in that regard, since there is one or you full time and three
+inside of large space. Yes. How do you divvy up different assignments? So I figure you're in
+charge of the crew. How do you balance all of the work that you have between things and what does
+that look like? So the fun thing is I'm not actually in charge of the crew. So we have
+on a hierarchy level, we have above everything else, our curator who decides what we do,
+what we focus on, what the goals are. And they kind of maintain a high level overview.
+We don't have a curator dedicated to just games. Their portfolio is more entertainment and culture.
+So that's very broad. That includes both archiving things that are relevant to TV shows, to radio
+shows, but also to religion, to when a celebrity dies. Also video games, right? It's very high level.
+During the last reorganization, they decided that they wanted to have vertical conservators,
+not just on a single topic. So we don't have a TV or a radio curator, but we have one for news.
+We have one for amateur productions. We have one for culture and entertainment. So that helps to
+kind of make it more high over. It also puts a lot on their plates. So there's a lot of levels to it
+as well. So that's our high level theory. So you can fit game stuff into multiple different
+verticals, right? Right. So if you have an applied game or a game that uses news as a topic,
+it wouldn't go to the news curator, right? It would help to stay within one structure in that sense.
+Because the political games, yeah, collection. In other, yeah, with other creators in other
+organizations, they might be divvied up to different people. And here, because games are
+malleable, media is malleable, we try to take and compost that as well. So that's our high level
+curator. Then underneath that is our coordinator. He coordinates our digital preservation effort.
+So he's also responsible for web archival podcasts, web videos and games. So he's very much like
+making sure that we do our tasks, that we reach our goals, that we set realistic achievements for
+the year. And that's so on we work on. And then there's me and my colleague Amy doing the actual
+work and then Amy mostly helps with the administrative part and as well as reaching out to developers,
+but also just helping out on the side with acquisitions. So physical materials that we get,
+she helps with organization. And I'm the one doing the technical things. I help with the
+emulation, they're reaching out to developers, contacting, keeping warm connections to everyone,
+and then also doing a lot of public speaking and telling about our work. It's a advocacy part of.
+Yeah, exactly. And we all kind of rotate in between those tasks as well. But formally,
+that's the hierarchy. And it kind of helps us to remain focused on things so we don't just
+accept everything because I'm the tendency to say yes to everything and my coordinate is like,
+does it fit? And I'm like, no, but it's cool. And then yeah, you need that sort of thing to
+keep your collection to have an overview of your collection. I don't like it, but there's a reason
+for it. Yeah. And so that means that you're put into the web archivist section. Yes, is that
+because it's expected that games are going to be digital, digitally born in a way that they can
+be used via the web. Not necessarily to be used via the web. They are separate in that sense,
+like separate approaches, separate structures, like we don't use the web archiving tools for
+our games preservation. Those are entirely separate. But I am part of both teams, right? So I also
+help out with web archival. I help web with broadcast archival. And there's a lot of overlapping
+there, but there's also a lot of distinctions. That makes sense. Okay. All right, then let's
+let's talk collection because cool, because talk about the games. Before we do anything,
+I will send you our major thing that that has helped us. And you might have seen it already.
+Google Translate actually does a pretty decent job for this one in English. So back when we started
+in 2017, we were very much like, okay, we're just going to do Dutch games from the Netherlands with
+a clear Dutch connection, because there's no point in archiving Super Mario Brothers as well,
+if everyone else already does it. We are of the belief that if every country archives their own
+games, you have all the video games in the world preserved. So how do you go about this? And how
+do you make sure that people understand it who've never thought about archival? And that's where
+this idea came in, which is a game's canon. So this is the canon. I love this. We did not make
+this canon. We asked journalists, people from the industry, the researchers from the universities
+as well, to give their input on, hey, what are the most important or significant Dutch games?
+And this gave us a list of about 70 games. We published it and then people got very mad and
+upset because we left certain things out. So we updated it in 2018. So it's pretty outdated
+at this point. We're not getting mad as like, as a first-party person, like you didn't put our
+game in or were they getting mad for a game that they were a fan of? So on two levels, yes,
+yes, that and yes, that also. But also there were people like, you you excluded a lot of the
+more artistic or applied games, which are very important too, which was necessarily an overview,
+but they are harder to keep track of, right? So when we when we got the final list now,
+I think everyone will always have their complaints that people want to be on the list.
+But for us, it's very much a point of reference. And for us, it was also the way to kick open their
+door. It was very much saying like, hi, we want to preserve games. Also, your list is what your
+game is one of the most important in Dutch games history. We would like to archive it.
+And that's how people were like, oh, but my game, really? And that's how we were able to
+fundamentally start beginning that collection. So this list is still our approach. It's still
+our main focus to collect all these games. And everything else on the site, we catch as well,
+we try to catch as well, but these are like our milestone, so to speak. And if they're on this list,
+they aren't necessarily yet archived, we are still working towards it. But this is very much a
+point of reference for both publicly and ourselves. So if you scroll through that list, you can also
+see that if you click on one of the titles, you can add your memories to the game. So if you,
+Topraffy Nederland has a comment of someone says like, oh, this was on the elementary school
+computer at the end of the hallway, and we could play it for an hour. We really want to encourage
+that because people that are memories are just as relevant to this collection policy as well.
+What do they remember about this game? Because that's often what gets lost if you have the
+final product. So we really wanted to make it a sort of interactive experience in that sense too.
+This has sort of been our cheat code, but it works really well still, talking to especially
+larger organizations and publishers who may have gotten the rights to games that they didn't
+intentionally even know of that were important or significant.
+This is an amazing list. I love how dense it's getting on the more recent end.
+Yeah, yeah, that's the issue. That's what people remember more accurately, right?
+And it also looks like it looks light on the earlier end in a weird way.
+Yeah, and that's also because there's very little documentation because the problem with
+metalins in particular is that we're kind of ahead of the curve in a lot of computer developments,
+like a lot of Dutch programmers all over the place got in very early and either moved to
+international companies, or you would never know they were Dutch with their final product.
+So for us, it's still the case. Yeah, it's pretty much still a way to like,
+I would love to be proven wrong that our oldest game is from 1980 because we contacted the guy
+who made the first game on the list, which is Nijmez Amatur. It's a text adventure game based
+in the city of Nijmez, and you have to put in text and walk around. And we reached out to
+them and we're like, you made the oldest Dutch game. And he's like, what? No, I did that in a
+weekend for a hobby. What are you talking about? You want to art? This is not cool. Why do you want
+this in a museum? This is trash. And we're like, no, this is cultural heritage. But so far,
+we have yet to find an earlier Dutch, like directly Dutch game. So as far as we are concerned,
+until someone proves us wrong, I would love to be proven wrong and find older.
+Did you have you gotten to see about all the moon child stuff? Oh, yeah, because the fun
+things I know met in person, met in lives like 500. And I was the one who pushed him like, hey,
+have you seen Blue's guy blowing up? And he was like, wait, what? It was very funny. They're doing
+great. I'm so glad. Great. Because yeah, that what you were describing is exactly how it felt
+when never met and would post something. Just anything felt like a bewildered,
+not even joy. Like that Dutch thing of like, I have a job I have to do now.
+Yeah. And the fun thing is this list contains, I think, like two games from Team Hoi and neither
+of them are moon child. And I would add that moon child should probably now be included in this
+list because of its revival. It's an unreleased game, though, right? Yeah. Well, they have no,
+they have made a final version of the game. And they also made it publicly available now. And
+met in less yesterday was like, okay, I actually got the old programming team together. And we
+might make a new port. And here are the open source files and go nuts and do whatever you want. And
+yeah, like they're great. But that's more than enough than to put into the collection.
+Yeah. And the thing is like, met in especially, met in has always had an eye for preservation. So
+he's maintained his own internet archive for years, like everything they ever worked on is
+already on there. So when we asked, can we have a copy of that? He's like, yeah, no problem.
+I say, here, here you go. Here's your wheat trends from like, okay, yeah, that's that works.
+It's been a very funny week. My old editor in chief at Games Line interviewed met in yesterday.
+It is going to have something tomorrow about it. So it's just like small world.
+Very small. Yeah, it's very small. Yeah. And met in is great. And that sort of sense.
+We're still trying to find one of their games that's actual Lost Media, which is a lot harder
+to find because they made it for an Amiga computer for a broadcaster. And they were
+convinced it was their own Amiga. But now in hindsight, they're like, Oh, no, it was there Amiga. So
+we're pretty sure that the game has never been copied to anything else. And we only have like
+a commercial showcasing the game one juice chase. They're on a duck chase for a for an Amiga somewhere.
+Yeah. And especially for a game that was only used in a game show as a promotional material,
+where if you would win, you would win your length in jars of peanut butter, it's very funny.
+That's so good. Yeah, again, small history, but it's very, very unique.
+So I'm looking at this whole collection. And so what parts are you collecting on here? Is it
+game material? Is it development process stuff? Yes, is the answer.
+No, we're trying to go. Yes. So I guess one way to put it is like, I see hidden folks on here,
+fantastic series that spawns a whole lot of culture out of it. And then I also see Horizons
+Zero Dawn. Those are very different scales of production. Yeah. So primary goal is always the
+game, the game in playable form. If that is our actual end goal, whether that is a DRM-free PC
+build that we can run locally or a version that we can emulate, our goal is because they're
+digital born, we do digital preservation. So we don't try to get a PlayStation 4 and run Horizon
+on that. We want a PC version of game now, thankfully they have one. But we are trying to make sure
+that we get a version that we can run on our PC or we can store in cult storage until we can
+emulate it. Because our perceptions, these games are in the end, very basically ones and zeros. So
+they should be preserved as ones and zeros. However, well, you preserve physical materials,
+it will deteriorate even with our faults that we have downstairs, which are very well-climate
+control, very well-preserved. In the end, it will not run. Or people will die who can repair
+materials and repair circuit boards. Materials like parts themselves will not be available.
+So to prevent that from happening, we are really working in advance to make sure they preserve
+digitally. Okay. Then... Oh yeah, keep going. Does that include a played game experience or like a
+played version of the game? I figure that's the next place I always look is if there's any video,
+archive to go with the game. So high-level game, then everything else we do, we call context
+tool materials. And that is divided into two sections. The one hand is the section from
+developers themselves. So we ask developers, hey, aside from the game, is there anything else you'd
+like to donate to us or want us to preserve? And then we kind of wait and see. We do some suggestions,
+game design documents, concept art, insights, development videos, processes, marketing materials,
+merchandise. We cast the white net, and whatever they feel like preserving, they can send us our
+way. Then on the other hand, what we also do is video game recordings of our games so that people
+can get a sense of how the games are played in action. We don't want to rely on video recordings
+because games are interactive experiences. And the way I played will never be someone else's experience.
+Even in linear text games, like that will not be the same. But it's more so to give people a look
+at how the game runs, how it should operate, and what it does to make sure that we can keep it
+in a playable form. So it's kind of our, it can be as a base reference material down the line,
+but it can also be just as a way for us to showcase it through the archive because our archive as
+well is not designed to showcase playable video games. It's designed for radio and television.
+So we have to rely on video, audio, visual media at some point. Which actually matters a whole lot
+more than we may even take credit for. I'm an old school let's player. That's that's kind of where
+I cut my teeth as a kid. And so seeing how the preservation scene has adopted, like how important
+those videos are over time. It's been really cool to see like just differences in how people
+played a game 10 years ago versus how they would, you know, perform a game on the live stream or
+something now. Yeah. And just to clarify, yeah, just to clarify, it's a it's a single recording,
+like we don't ask multiple people to play and record it. We just do it one time to kind of get
+a reference to sort of an overview. We are also looking at collaborating with the home computer
+museum, which is based in Helmholtz, which is an awesome place if you ever get the chance.
+And they also do a lot of fun projects. And they have a lot of original hardware and they've
+offered to record videos on the original hardware. So we use our emulation basis and they can use
+their original hardware. And maybe people want to compare that down the road. Like again, I I'm
+not a researcher in that sense. I just want to provide the materials that people can use to
+their own productions. That makes that makes sense though. It manifests as this final,
+you know, just a raw what does the game look like as a plays? How does it run? And then that
+makes sense because of all of the different places that your Institute has video access,
+just to put things on walls to give things to users to let people see this in action in motion.
+It's very funny how just it does line up to be an active preservation as well
+of an and access and all of the other things. That's cool. Yeah. So the part that I
+picked up that I thought was really interesting is that you do have kind of a list in your head of
+developer materials that you're looking for. And that you can just very quickly be like,
+hey, do you got any marketing material? Do you have any design materials? Do you have any concept
+art? And that those really are like the main pillars of things that I would also be expecting
+or looking for if I were trying to curate games. And occasionally what we have.
+Yeah. And but usually this like our process doesn't just happen in a week, right? It's
+usually month long talks chatting with people, seeing what they want, what they have, how they
+can collaborate with us. So occasionally they just say, Oh, I found this in my attic and do you want
+it or do you want me to toss it out? So at some point we were talking with someone who was a
+previous developer on a very large, it was supposed to be a world of Warcraft killer called Chronicles
+of Spellborn. It's an MMORPG that went offline in seven, seven months. So
+concords that weren't that run. Hey, now, no, we did have seven years of development in the
+Netherlands and it released in 2007, 2008. So it's very much earlier period, fixed time for the
+Wow killer, especially. Yeah, and the large investor was also like a property owner. So he
+had like, he was not into games and all these like, Oh, yeah, I will fund this weird thing. And it
+might make me tons of money. It did not. But what's interesting is like, one of the old developers
+came to us like, Hey, I have a version of the game, you can have it. Also, when the studio
+closed down, we had the art pits and people were like, we're going to toss this out who wants some
+and you just breadth 40, like pieces of concept art. He donated them to us as well. So we have
+original drawings from these games, our concept drawings. And we put them in, we saved them in
+the archive, we procured. Even though we are still waiting for full permission to archive the game
+itself, because that is a separate trajectory, we're still exploring. But until then, yeah, we
+definitely want to safeguard this. And if by the end, we're not allowed to put it in the archive,
+then we will have to get rid of it some other way, because we do follow very strict policy
+guidelines, that sort of thing. Okay, I'm looking at all the other questions that I've got. We've
+actually covered the Brazilian of them rapid fire real quick.
+Yeah, and feel free to ask if you need anything else. Like, so like I said, the list,
+the games, common list kind of lists, how many games we want to archive. But currently in our,
+I'm pulling up my current overview, we currently have about 368 games in our collection.
+Oh, wow. And that's all Dutch games, right?
+Yeah, Dutch games are with an explicit link to the Netherlands. And additionally, what's
+important to that is that the way we archive and preserve materials, it's only with the full
+explicit permission from the rights holder. So it's not necessarily even the developer.
+We have a special contract that we make them sign, which allows us to reuse the materials
+within our walls so people can play the materials on site. They can access the materials on site,
+we're not allowed to redistribute it or make it available for download. We don't want that,
+we don't do that. And we work like, we always say we're the best boy in class,
+we really try to make sure that we don't, you know, don't do anything that would cause
+eyebrows to be raised because we really wanted this to be proper. And it also has to be preserved
+for 400 years or more. Like we are really looking long term ahead beyond public domain and copyright.
+We want to make sure that this is similar to how a Rembrandt's painting would be preserved in a
+museum or collection. People need to have it available for research and access.
+Oh, really? Does that, does that come across for developers in the Netherlands? Because I don't
+think a thought like that has ever crossed anyone who's making a game. And that's, since we don't
+really have a deep art history like that. Yeah, that's what we need to explain every time. It's like,
+no, what you made in a weekend for fun is actually part of our cultural heritage. And in 400 years,
+people want to understand and study that. So think about it, consider it. Which is also why
+we're now working with smaller indie developers, where we say this very early on. And figuratively,
+we say here's a big cardboard box. Everything you use during development, you toss into the box.
+By the end, you give us the box. We filter the materials on what's usable, what is personal,
+and what you want to return. And then we say, we would like to add this to the archive. Is that
+okay? That is like very figurative, sort of the image we're trying to sketch to these developers.
+But we've had any developers that have been so kind to work with us. And they gave us also earlier
+builds of their game. They gave us a gray box prototypes. They gave us every lead up to the
+development because they're like, yeah, we have these materials. They're going to disappear. Otherwise,
+maybe you guys can do something with that. And like, yeah, we're going to try. I mean, for us,
+that's new ground as well. Like, for most too much, how do you manage that?
+Yeah, so that's just very much like, saving, documenting and making sure that all these materials
+are stored in a similar principle. The good thing about working in our archive is that we have the
+formal infrastructure of it. So everything we put on our storage is bits preserved to the bit.
+So that's, you know, I don't have to do that. It's just drag and drop and the archive infrastructure
+does it for me. So that's really useful. But like I said, the archive itself doesn't eat .exe
+files, so to speak. So we really have to, like, repackage it and make sure that we can say, like,
+this is the game itself and is the material around it and that we can make sure that that is properly
+communicated. So we do our best to preserve that on the high level as well. For one studio,
+we work with, we got their entire SVN backup, which is their server that had been running since
+2004, including all their canceled projects and pitches for projects that were never released.
+So and that is from projects that were dedicated for mobile flip phones from the early 2000s era
+to we switch era. It's a lot. There's demos in there for we, there's also development kit material
+in there for we that I don't know how to use because we don't have the hardware, right? But
+all the documentation is there and it's just a wonderful insight. It's also 580 gigabytes of data.
+It's going to say, yeah, just just going through that material is an effort in and of itself. We
+had an intern who we asked to formally work with us to make sure that this can be sort of managed
+or inventor, inventor categorized. And in the end, they were like, yeah, never do it like this again,
+because this is just unmanageable for anyone who's a human, which, you know, fair, but we still
+try to preserve it as best as we can because there's logs in there from 2006 where every
+changelog was edited to the game and you can kind of see, I fixed the clouds. Oh, no, I broke
+the mountains. Oh, no, my sprites don't work. And you can have a full sort of log of how development
+proceeded, which is really valuable during the we era. We era, but also during the
+so this was we were in particular 2009 ish, but we also have a game that's earlier the
+size stuff. Yeah, there's a there's a lot in there, which is really, really interesting. These
+developers were very, very prominent in that period. And then, you know, now they're like,
+yeah, this is the stuff we still have it running, but like, it wasn't the blah. No, this is two
+tribes, actually, who did Tokyo story on Game Boy? Okay, yeah, the block crew, we had to go to THQ
+actually for that because they bought, they bought the rights from the HKU students. And it
+took me three years. And then I just had one meeting 15 minutes and they said, cool, what do we need
+to sign? I'm like, excuse me, I've been working on this for three years. And you're just saying,
+okay, yeah, okay. And we got the right for the original demo that the students made and the
+game design documents for the original blob as well, which formerly the students have nothing to do
+with it. But you can compare the demo to what the game design document was from the blue tongues,
+I think in Australia, that the final game for we, and then we also got the we game in the port
+of PlayStation 4 and the blob two as well, which is nice to have like not required for us, but it's
+just good to have it all encompassing part of the archive. I loved the blobs. Oh, it's great.
+I was like, that's such a good. I spoke from both the Netherlands and the one at THQ and the THQ
+person was like, yeah, I was really missed because we wanted to make it a full-fledged IP.
+And I had this idea for a multiplayer online game where you had to paint the walls. And they said,
+no, we're not going to do that. And then three years later Splatoon came out. Yeah, that's sort
+of thing, right? Yeah, that makes so much sense. Good stuff. Yeah, the vlog is so imminently IP
+ready. And it always was and and they still own it fully like THQ can do whatever it's just like,
+no, yeah, what? Yeah, it's too late now, but also it is such a brilliant little thing.
+Yeah, so, okay, I want to come back around to SVG. The big 500 gigabyte
+yeah, competitive of the SVR.
+So when you get something as big as that, when you get something as thorough as that,
+you can't archive all of the pieces. How do you get it into a position to where it
+can be worked on later on? Like, how do you do like little step pieces to get into that?
+So for this one in particular, we really did a lot of that documentation through our
+for the intern that we asked to work on this project. So we kind of sorted the project.
+We sorted the server based on projects first. So you know, okay, this is a canceled game.
+This is the documentation for that game. And then we have like
+documents, images, pictures, and then builds, for example, that would be the sort of structure
+we would keep. And then a little per project basis, but even then it got out of hand quickly,
+because there's just a zoom. Yeah, because that should make a lot of sense. And that should work.
+But then there's just so much, there's so many pieces going back and forth across the server.
+It's all honesty. This is one we're still kind of struggling with, because when we got the final
+report from the intern as well, they told us like, yeah, we should look this over. And it's kind of
+still something where we're, I wouldn't say postponing because we know we have it securely stored somewhere.
+So it is safe, but making it accessible saying to people like, oh, you can, you can go nuts with
+this one was very much like, maybe this one, we will be. So it also taught us to be a little bit
+more hesitant to do that full request from someone. And to give you a little bit of contact, like the
+two tribes guys were very hard to reach initially, like very hard to convince to do something. And I
+was partly because the one who did the public outreach was very approachable, but he said
+all the materials with the other guy. And the other guy was just like, yeah, I don't have time.
+And then finally, he come, he comes over, we do our whole field, we explain it, he brought some
+physical items, which is very nice. And we show him our workstation. And he's like, what do you need?
+I'm like, I need builds for these nine games, because those are the games you released. And he's like,
+great. What about the other ones? I'm like, excuse me. And then when that's when he goes into like
+all the canceled projects. And he's like, you know what, I don't want to bother with this.
+Here's our SVN connection. I'm going to copy everything to you guys. And then you can
+figure it out, right? I'm like, yeah, that's kind of sort of like, oh, no, I was not expecting
+this. But in the end, it did work out. The thing is, with that particular approach,
+he also send us pretty much all the source codes. And we cannot do anything with that. Because
+as I've always been explained, again, I'm not a programmer. So for me, it's always a different.
+But I've always been told like, it's like hieroglyphs. You cannot decipher it. And if you can,
+you need someone specialized in the code to work with it. They gave us their engine. They had
+their own engine that could recompile the game. She's like, oh, you've got everything you need.
+So you can recompile the games yourself. I'm like, wait, no, no, I can't wait. And then when we got
+that stuff, the server was looking for a connection that it couldn't make to the compiler. So we couldn't
+compile the game. So in the end, I had to get him back and it's like, okay, give us the actual
+final builds of these projects, because otherwise I can't do it.
+So formulating for me, because I my two bases of theory on on games, archival ship come from
+Lane Noonie talking about indies, you put it in a box. And then Garrett Friedley talking about
+this exact thing that is just I have no idea about it. And so now you explaining it's like, oh,
+oh, that's what he was warning us about.
+Yeah. And the thing is like, it can work, but you need to manage your scope. And in this particular
+case, it was a game studio that I've been active for over 14, 15 years, and I've done so much that
+was unknown to a lot of people. Like, okay, so when we talk Nokia video games, right? The first
+thing people think of Snake, right? Yep. Yep. Do you remember one generator? I don't know if you're
+in the same age gap as I am, but there's a generation later, you have this golfing game, right? Pro
+golf tour. It was in color, semi blackberries and stuff at that. Yeah, two tribes made that.
+And they were never allowed to talk about it. And no one knows about it, but they have the full
+documentation for their golfing game that was pre-installed on every Nokia phone after 2003,
+which is crazy to me. But like, that's the most great game in the world, maybe like one of them,
+like it's one of those like, Oh, so many people must have done that. No one knows about it. And
+they were like, yeah, we did that for a contract that we can't tell about it. We have a lot of
+materials for that now. So that's, you know, that's the layers you're working in where your scope is
+just undefined until you're very sure that someone knows what you want and what you get,
+and how to preserve that. And that's kind of how our approach works. Like, if we ask for a specific
+company or developer to work with us, we already kind of know what to expect or we give those,
+hey, these are things we might expect or would like to have. If you have them, please send them to us.
+Most of the time, we think they're manageable. And then you get one of these outliers that also
+teaches us, okay, we need to do this a little bit differently. Okay, so most things are manageable,
+though. That's interesting. Because at the front end, before that context,
+before that first contact, we all have already narrowed that scope because we don't just send
+out a contract blindly and it's like, Hey, work with us. We already kind of have, like,
+bated, asked, like, Hey, what do you have? What do you think you have? And usually when you start
+talking with people in person, they're like, Oh, wait, I remember this. Oh, I think we still got
+this somewhere. And if I don't, I'll ask a friend who worked with me on it, right? That's very much
+how it tends to go. So narrow the scope beforehand. And by the end, you can kind of keep the leverage
+going. And the game is always our primary target, right? It's always the game first.
+Everything else is by fun additional things to catch. That's that's nice to have, but not
+required to keep the games playable. Okay, that's interesting that just how well it has worked for
+you. Because everything that I've seen in the Netherlands history of games is a little different
+from the other places that I've gotten to look at. Like Australia's history on games has a lot of
+very distinct eras, where it's like, all right, this is when Sega was there, and then this is when
+everything exploded. Like the Seattle area has this very like a balanced thing that it kind of goes
+through. But but that owns very consistent, very consistent, like a stream of games that reach a
+bunch of different eras, a bunch of different styles, a bunch of different consoles. And so
+you're not really working with the same types of material every single time.
+I let me show you something. I share with you a presentation I gave a few years. Oh my god,
+do you accept me? Those materials like five minutes before this. I'm like,
+yeah, sorry, sorry for being a bit late on it. It's been acting. Oh, no. This slide in particular.
+So this is just a like a grasp of what we have in the collection, right? And these are just games
+everyone would say, Oh, they're for PC and whatever. These are all different systems that have different
+requirements. These were all created mainly by the same studios. So you can see the width of like
+things they worked on for different systems for different versions. But that also is kind of the
+challenge with particularly in our audio visual archive where the focus is just like, Oh yeah,
+you do film and television and radio and those have unified standards, but games don't, right?
+We have to tap. Well, and that's one of our challenges as well. But yeah, if you look at this,
+like this is from our downstairs archive catalog, we don't know that many physical games, but that's
+not our point, right? But it shows you just the way what we go through. For example, here is the
+bomber cyberpunk team that's team reptile. They're based in Hillsome 2. And they have
+records of music, which is fun to have like we don't do anything with them. But we do want to archive
+them to show, Hey, these games were so popular with their music. So we want to showcase them
+alongside their their publications because people want to them for their music as well.
+Yeah, and and scope is also weird because we also include like stuff like this was a free
+so when you go to the supermarket here occasionally they have like these promotional things,
+collectible cards and stuff. And this was like an educational game about dinosaurs that was
+given up at over time. Yeah. And they had a VR goggles and then an interactive game where if
+you were to look at these glasses similar to AR technology, right, there would be this little
+dinosaur running around. We want we have this on the list. We want to archive this. How do you go
+about it? Do you store the VR hardware with the cards? Do you want the book as well? Do you just
+want the software? That context is very important to us as well. So we need promotional materials
+for these as well commercials, like how was this developed? Who made this? Yeah. And you're right
+because this is an Albert Heim based thing. So that experience specifically is as as important
+as the product itself. Yeah. Just because that's the context that people like recognize it in.
+It's fun. That's a funny issue. Because we don't commit ourselves to a single platform or a single
+type of game, we do everything as long as it's Dutch and as long as it's false within our scope.
+There's a lot of varied stuff in our collection. One of my favorites is actually Underground,
+which was developed for the Wii U. It's a game made by Rennel Games and it's designed to help
+surgeons train their surgical skills. So it comes with this giant accessory when you hold it with
+the big claws. It is a video game museum. Yeah, it's great. But it was not sold in Europe as a
+package, right? In Europe, you could only get the game digitally and whatever. And so the developer
+still had one around. So they send us both the Wii U and the hardware and the stuff around it.
+So we could capture it properly and archive it. But that required us outside the box thinking as
+well. Like, okay, what do we do? Now we need the game in physical. It's own physical hardware.
+Like we need to record it and preserve it as best as we can. But it is stuck on that single machine,
+right? Because it needs the accessories to a certain extent as well. There's layers to this.
+Every project is different in that sense. No matter what.
+Okay. Yeah. So lots of lots of really cool, exciting ideas there. Before I get into policy stuff,
+I saw that there are videos on the YouTube that come out almost daily. Oh, yeah, or kind of
+archived news clips on the sound video. And sometimes those are video game related. That seems like
+there are little historical beats where video games come into the mainstream and that
+uses a little video snippet for the channel. Do you have any interaction with those? Or is that
+also it's just its own thing? It happens to line up with game stuff? Or how does that work?
+It's its own thing. And honestly, the only one that I'm directly involved with is the presentations
+on video game stuff. So we used to have a segment which was our favorite acquisitions at the end
+of the year. So I always wanted to showcase something from the games collection because it's just
+good for people to understand that we do something with video games. I think, yeah,
+especially in the Netherlands, most people are like, Oh, yeah, you're at the museum, right? And
+they don't know where an archive and be they don't even consider us doing video games. That's
+usually a surprise to them. And I would say I'm one of the formerly, I'm the only full time
+games archivist in the Netherlands. But also it's very uncommon ground for many people. Like
+every time I explain this to people, they're like, Oh, we're doing that in the Netherlands. I'm like,
+others are hopefully too on their private collections and stuff, which is great. But formally,
+like we do it on an institutional level, which gives us a little bit more weight in that in
+that collection debate as well, because there's plenty of private collectors out there that have
+a great collection, folks on Dutch, they also publish information, fantastic work. Like I love
+seeing that like the moon child example, for example, right? Everyone been talking about moon
+child. We have nothing to do with that currently. But also I'm like, yeah, that's good that it's
+happening. But we do it on the institutional level. So there's a lot more giant cogs that need to
+be set in motion. And so for the publications on the YouTube channel, that's really up to the team.
+Sometimes to that team, sometimes they ask me like, Hey, do you have a fun thing like Pokemon is
+30 years old? Have you do you know anything in our collection that has to do with Pokemon? I was
+like, yeah, this new segment is very fun, where people don't know how to pronounce Pokemon names.
+That was so cute. I did catch that. I saw the kids throw in the cards of the wall and I'm like,
+yes, that was the one car thing like my girlfriend was like, I never played Pokemon. We were throwing
+cards. I'm like, why would you throw the cards? What else would you do with them? What else would
+you do with them? The kids are right. It's so funny to see that as well. Yeah, it's great.
+Yeah, so on that public side, I don't have a lot to do with the YouTube channel. Again,
+that's managed by a different team because our is again, many hats, many different functions.
+That was exactly what I was kind of hoping the answer would be, because that makes sense.
+Hey, so policies. I can go a little bit over time, by the way, if you're still awake, that is.
+Hey, I'll take it. So wanted to know when it comes to collection development policy,
+is that a document that gets updated often, or is it kind of settled in its ways, or how do
+changes get made to that document? Cool. Yeah, I just sent you the one from 2019,
+which is our currently most recent one. The curators are working on the new one, which
+should be releasing hopefully later this year, but I'm not part of that.
+Every department from the archive gives their input on what should be important,
+and many people within the Institute are encouraged to tell like, hey, you should focus on this,
+or consider this. In the 2013 version, which is published in English, I think games are not
+included. In the 2019 version, we got our own chapter, and I hope that we continue that in
+the next version. So it is determined by other, but games are now embedded into our collection
+policy. Okay, because that's solid. So now if you're going to have changes made to it,
+a lot has happened since 2019 in your role. And so what would it evolve evolving that look like?
+Is that trying to like identify like, hey, here's all of the various,
+here's the scope of the games, and how it's evolved over time, or how specific do you get?
+You're like, hey, by the way, you're going to need a lot of consoles.
+So we don't have that issue, thankfully still. I think our collection policy,
+when it gets updated, will be inclusive of more. So the 2019 version doesn't even consider the
+development materials yet. The 2019 version is really focused on just asking the games and
+keeping it at that. And when I got this job that I currently have, like when I changed from the
+museum to this, I actually wrote a proposal document to like reinvigorate our games archival
+policy, because it was very much like, we do the games, emulation happens, and then, and I was
+very much like, okay, this needs to be more structured. So I wrote a proposal, people really like that,
+and apparently I can write a proposal. So that's good to know.
+And then it was changed, thankfully, by my coordinator, because they know a lot more about
+the actual ticket, because I wasn't even working this job yet, so they were very much like,
+that's fun that you think about. Here's how it actually worked, which is good to have.
+So that has been changed a few times already. I hope that gets encompassed into the new collection
+policy, but that includes stuff like the development contextual materials, our recordings of videos,
+as well, like that workflow will be more formalized in the next collection policy, I hope.
+Additionally, what we kind of want to focus on the overlooked areas of Dutch games history,
+because the Netherlands has been varied, like both in productions and stuff that they've worked on.
+One of the gaps we discovered over the last year was very much ad for games, advertisements,
+games use this advertisement. That is very much something that had a huge explosion here, like
+between 2003 and 2008. A lot of games were developed that way, both on commercial level,
+but also we've learned through provinces and municipalities made their own game,
+so in cage with local communities. Those games are fully lost, and documentation barely exists.
+Like we got a guy like Flash games, for example, also fully developed games. So I actually have
+a meeting next at the end of the week, next week with someone who worked on a game that was
+designed by the province of Ophraisal, and it was about how water usage can be maintained,
+and it was like a third-person shooter-ish, where you play with water guns, and it was really
+distributed to local schools in the area, but I cannot find a single copy of this online anywhere.
+So I'm very curious to ask them, how does this happen, and what is this game? They told me it
+still works on modern windows, so that's very interesting against it we play, but no one knows
+about this game, so that's very fun. But that's sort of the gaps we're trying to fill, like we might
+use them more, one of the considerations I've been told is like maybe we want to use a themed
+approach where for one month, one year we focus on just advertising games, the next year we focus
+on just applied games, the next year just on X games, right? That just gives me a little bit more
+for predictable scope, because out games that are on the canon, and the games that are winning
+awards, so we do look for games that have won international or national game awards,
+we do want to add those to the collection because they've already got critical and commercial acclaim
+in a sense. We kind of want to make sure that we don't just have to wait a year until the
+rights hold a response to us, right? There's a lot of downtime in this practically that we kind of
+want to move ahead on or keep doing research on, so that themed approach might be really valuable
+for us in particular because of that weird, eclectic history of Dutch games.
+Okay, this is so helpful. And again, I don't make the policy, so I give my consideration
+inputs, but in the end that's with the curators, and it will be published hopefully later this year,
+but that's kind of what the things I've been hearing and where I think like yeah, it would
+make sense. I also like to keep the door open for when weird stuff comes around,
+like I like to ear to the ground where I see, oh, hey, this game does something where we should
+probably check it out or someone comes up to me, he's like, hey, did you know that Compina made
+a farm fill-like game that ran like five years before Facebook came out, where you could maintain
+your own farming village and had to trade with other players online? I'm like, what? No?
+Awesome. Awesome. That's the things I'd like to keep an eye out for, right?
+Yeah, absolutely. Oh, that's so cool.
+So four main questions. So one of the things that I'm running into
+is that because I am building a collection development policy for a non-profit that is just
+two guys, most of my work with this is not just for the VJF as much as it is for people coming to
+the VJF for the users. This is a question of all development policies are not supposed to be for
+the end users necessarily, but this is a buffer so that they stop getting so many emails. You
+know, there's there's a little bit of weird wiggle room here and it's not something that I can just
+give to them and be like, all right, here you go, assuming they'll just run with it or whatever,
+it still needs to be, you know, adopted and changed and moved around and all sorts of stuff.
+And so I'm setting it up through a GitHub so that they can fork it and then have a place where
+they can develop off of it so that it has history attached to it so that they can keep all of their
+updates. That's kind of like a change log sort of approach, right? Yeah, just keeping a simple
+change log, which I think should also be able to adapt well for users for people because they'll
+be able to see, okay, this is the process, how things go in, what they do when they get to the
+end state, but then also the main part of like, by the way, we don't have games. This is the
+game's history archive, but it doesn't actually provide video games because we can't. We're not
+allowed to. Yeah, yeah. So I'm not on site, right? Just for my confirmation, I'm not on site. No,
+no, no, as in as in providing video games on site is also not legally allowed for the feature.
+No, yeah, they all on site access. That's another fun thing I get to clarify. On site access is
+strictly invite only. It's not a public archive on in the physical sense, but the digital library
+is publicly accessible to everybody. And so all of those are like weird little pieces to this puzzle
+that make this a development policy that people are going to interact with that don't necessarily
+know what that is or what it's for. And so yeah, those are the kind of plates that I got. So for
+us, occasionally, we get emails for people like, Hey, I have these games, do you want them? And
+99% of the time we don't like, again, physical materials rarely have value for us unless we can
+use it to sort of as a contextual material, right? Our physical materials are not the carriers,
+they're just our physical collection to show like, Hey, this will go on the back of the box,
+or this is how this the CD ROM looked, right? So occasionally we say yes to those because they
+are we they are gaps in our archive, but we don't need permission from the right tool to
+add them to the collection. We just don't make them playable or preserve them for the future,
+right? They're just our physical object represented the game until we get permission.
+We kind of cut that off right away. We say immediately like, Hey, not our thing. We don't do
+this. We are just focused on these materials and developers. And if you have something along those
+lines, feel free to reach out. But we do judge it only case by case basis. Now, we are not the
+VJF in that the sense that people know that we do this. So we don't get a lot of emails. We get
+more slowly, but like, usually it takes, it takes time. And I've done, I've done a presentation in
+a YouTube video that went pre that got a lot of you. So people have been knowing to reach us out
+via that method, which is really cool. But in the end, like we we we don't have to deal with that
+quite yet. And if we do, there's institutional policies on what we can and cannot accept and
+how we do that as part of our collection policy as well. Okay, yeah. So really just
+a buffer to folks. Yeah, on the website, there's just a big list of like,
+here's a form you could fill out with tons and tons of spaces to give a really clear picture of
+like what the thing is. Just that is already like way to get rid of 99% of the people who don't
+want to fill out a form, just as a sort of guide. So we recently had a project here where we asked
+anyone in the Netherlands to donate TV and radio materials. So I was I was safe. But they got
+400 people signing up, which is a lot for us to bring stuff for archive. But even more people
+came by on the date themselves and like, I have this DVD box of these old television shows and
+like, yeah, we already have that in the archive, but DVDs were made using our materials. So we
+don't need them. But then still you need to say, yeah, we don't accept this. And but they still
+show up, right? There are people who are just that convinced that they have something unique
+where we're like, you don't, but you also have to bring that kind of nice term to that. That's
+fun. And yeah, for television, like home recording videos and stuff. Yeah, I've learned
+learned over the past five years that radio people are much more intense than video game people,
+which is very funny to realize. They are really just like, Oh, no, I built this myself. You need
+this. You don't have this. It's like, okay. That's very funny. If it were just hand radios, we'd be
+saved, but there's like the hearts and everything. It's crazy. And we also have a lot of volunteers
+that repair that sort of thing. So there is a sort of always like a sort of feedback loop.
+That actually lines up with what Chris Arneil said in Australia about everyone keeps bringing in
+their home video of the queen coming to town. Yeah, yeah. And just like, yeah, no, we really
+don't need this. Yeah, exactly. And especially because people think, Oh, but then you digitize
+it and make a copy for us, right? And like, no, no, we don't do that either. You donated it to the
+archive. We are not a, we are a service provider for media professionals. Like, if you want to
+have your film digitized for 8K for theater release, we can do that. But that's a cost. And that's
+only for media professionals because we don't have the time. And we take very good care of that stuff.
+Yeah, it's very specialist work. Like I had a, I was once reached out by someone who had the
+original film reels for the Nintendo arcades, like the, the 70s arcade systems. And they asked
+like, Hey, can you digitize this? And like, yeah, this is the price. And you would have to know that
+we'd take good care of it and you get a digital file. But thanks too much effort. And then you
+don't hear back from them. And like, yeah, I get that you can find a better provider in your local
+area too, probably. Yeah, this is the same thing the VGHF runs into is lots of folks being like,
+Hey, here's this chipset. Here's this ROM. Here's this hardware. Can you take it off a take off a
+hands and be send me the digital version is like, okay, a lot of a lot of no here. Yeah.
+So another thing with games in particular is like this is Afghan European Federation for
+games. Thank you for bringing this up. Yeah, so I'm also elected board member for the Federation.
+So I know a lot about the going on. But for us, it's also a way to refer to national collections
+from other countries, because in Europe, like, again, a lot of a lot of it gets interchanged. A
+lot of it was released maybe by different things. This is kind of a framework of European archives
+and museums that have games as part of their policy and are part of this Federation. Non-EU
+members can be associative members. So if the VGHF wants to become an associated member,
+we would love that. But it's very much designed so that when we get someone who says like,
+I have this stack of Polish games, we can refer them to the experts from the gigney in Poland.
+So they are much more specialized in that sort of thing in their collections. And every European
+country has different deposit laws, like Sweden, for example, has a legal law, but only for physical
+games released in Sweden, in Swedish. So as you can imagine, that was a lot in 2000 to 2010,
+and then nothing. So that's their struggle. And France, for example, has a legal national deposit
+law. Everything that's published in France doesn't matter what goes to the archive. So they get
+thousands of games a year, and they don't know what to do with them, because they get thousands of
+games a year. And right, we can be more selective because we have a very clear policy. But that's
+the struggle of having a national deposit law. And we are working around that with our own
+agreements with developers and rights holders. But it takes more time on our end. So it's, you
+know, you have to work with what you got. So, okay. And if you watch this really well,
+because one of the other things that I'm putting into this policy is, hey, here's all the things
+that we don't do. And here's where you go to do that. Exactly. Kind of the same, but without,
+since you have the netherland side having being able to point people to all of different European
+countries, but you don't have everyone, right? There's like certain, you and this is a sort of
+voluntary federation, like you pay membership dues, but not every member every country has their
+own archive or is interested. One of the recent members was, for example, a UK company that
+does retro game revivals. And they're just like, we support this message. We just want to
+make sure that we support this. And if you, if we can be part of this, that's great. So we accept
+them too. We have people from the UK and that's both museums and archives and national interests.
+Like there's a lot of variety in there. But yeah, there's definitely gaps in the countries that
+are part of our group. I don't think we have anyone from Switzerland, for example, just to name something.
+Yeah. And they're definitely getting them from there.
+I'm pretty sure I needed a double check on this again, because it's going to come up no matter
+what. I'm pretty sure currently the digital library is English only, even though I've gotten many
+requests at this point to add more languages, because the digital library's OCR is really good.
+Yeah. So I love the library on the pjf side. It's great for research.
+For us, there's not a lot of value to it, because again, it's so US based and international. So
+a lot of the smaller things get overlooked. And here, if there's any publication whatsoever,
+it goes through the Royal Archives, the Royal Library. And that can be accessed by anyone,
+but you have to go on site. There's no digital archives for that. So that is another barrier of
+entry. And we keep a lot of materials here, but we don't digitize them unless there's a project
+for it, because that costs money and we just don't have the scanners. And if we have a project for
+it, I'm pretty sure my materials are like the bottom of the list, because we have
+broadcasting guidebooks that are like 60 years old. Those are a bit more precarious.
+Yeah. And that would be tens of thousands of pages.
+I'm just thinking of like, if, yeah, if FVMP and VGHF,
+if folks in Europe needed those kinds of magazine materials to be digitized, like,
+how and VGHF could handle that really well. And that would help everything work.
+Yeah. Again, it depends on a per region, per archive, per institute basis. Same with like how
+private companies are factored into that as well. Because you are still dealing with copyright.
+And for us, at least a here-at-time efficient copyright is still like, it's our baseline. We
+cannot go past it. We cannot do anything with it. In Europe, there have been a lot of developments
+recently where out of commerce works is a new development. I don't know if you've heard of this.
+No. A couple of years ago, the EU passed a law that is allowing archives and museums with their
+collections to make materials available if they are no longer sold commercially. And this applies
+as long as it's part of the collection. So if you have a material, say, for example, a video
+game, you can list it on this portal, which is the out-of-commerce works portal.
+A rights holder has six months to respond to that. If they don't, you are allowed to publish it
+within a viewing only online material system. And if the rights holder after that six-month
+period says, wait, what are you doing? That's my work. You can't put this down. They are not legally
+allowed to sue you. So you do not get any recompense, but you have to take it offline because you don't
+own it. You're not the rights holder. But it is a way to make your collections more accessible.
+And we are currently developing this at Sound Envision. For games, we've put one game through
+the portal. It's that MMO it brought up earlier. That is actually now asked through the portal.
+So we are legally allowed to keep a working copy of it within our archive and publish about it.
+But because games don't have like the radio and television thing where you can press play and
+you get the same experience, like we don't know how to build an emulator for this in a web browser,
+beyond our scope. But we can use it in our advantage to make sure that the game as part of our collection
+is maintained in the playable state. And that's what we really want to leverage.
+It's called out of Homer's work. And so one of the things we're doing with that is let me see if I
+can find it. Because I don't know if this is actually in English, but we can check. No,
+it's not there. So this is in Dutch. What we're releasing in a few months is this hot camera,
+the treasure room, as it's called. And this is a free streaming portal where people can watch
+anything from the public broadcasters from the last 75 years, which we have leveraged over the
+out of Homer's ruling. So we said, hey, all these materials in our archive, it is no longer in
+commerce. It was always paid for by taxpayers. So it's regular. We want to publish it again,
+because people keep coming here and say like, hey, I want to watch this show. And it's like,
+yeah, you can, but only on site. And through this, it will be a free streaming service that anyone
+can access in the Netherlands to watch the materials. And they've they attempted to clear
+everything with the out of Homer's ruling. It looks like it's planned for the middle of 2026.
+Yeah, yeah. A few weeks, I think internally. It's okay. They're keeping a little bit of
+lease on that, because they're kind of afraid it will not work outright. But I think at the end of
+May, probably it will go live. Congratulations. That's huge. That's great. I'm not involved in
+the project, but it's just a very big milestone for our Institute.
+For the whole Institute. And it's a very unique European framework, because it applies to every
+European country that's a member state. So regardless of if you're in France or in the Netherlands,
+as long as it goes through that out of Homer's works portal, you can publish it on your own
+things without legal repercussions. Like it's not a it's not a free for all, right? It's not a freebie,
+but it is a way to make materials from a collection more accessible, which is, you know, by the end,
+you don't want to store it in a vault and have no one see it, right? You want to have people
+know that it exists. Yeah. That's right. It might have been very much off topic, but I failed.
+That's part of the piece I missed because you have your archive, you have the museum part of
+the Institute. And then that sounds like now there's a digital library component that's also going
+to be part of everything. And that's the Trinity. That's all of them. That's working on every
+cylinder now. That's the idea. Out of commerce work. That's huge. The thing that I've been running
+into with America is here video games are software. There's there's no way there's no inroads like
+that to even try to preserve games because they are software first, not media first.
+And so because they are all policy around it is built like software and software is seen as,
+you know, just a bunch of ones and zeros. That's really easy to copy. It means that copyright
+holders have just tons of leverage, tons of rights to basically say that nobody can access
+these in any way whatsoever. Yeah. And so and so this framework, again, the national copyright
+law still provide are still eligible in their own respective countries, but this one is European
+white for making sure you're not sued from things you already have in your collection, right? It
+has to be in collection. It's just no, you don't become an arcade overnight, right? But it is a
+way to make sure people are from. And my suspicion is not a single game rights holder publisher knows
+this exists yet. So for now, you can have free reign until it goes horribly wrong and then
+probably game companies will be more aware of it. But then still up until that point, there's a
+there's another advantage to it for me personally, because we have to strike deals with rights
+holders, right? We have to make sure that they agree with us on what we preserve. If you talk
+about game development companies from the 90s, they're defunct, they've been absorbed, conglomerate
+and whatever, if I go to Microsoft and say, Hey, you made it, you own the rights to a game released
+in the 1990s for the Philips CDI. Can we have the rights to it? We're in hill for someone. They're
+like, what's hill for some? Can you eat that? That's the that's the issue you run into. And those
+games are not commercially available because no one wants to burn their fingers touching it, right?
+Or like multiple rights holders, especially. But for us, it's also a challenge for finding
+whoever knows about this or is a rights holder still. And this works as a reverse search engine
+for us. Like if we put it on the portal, and someone says, I you're not allowed to have this,
+I am the rights holder. We're like, OK, prove it to us. And they show it. And we're like, OK,
+great, we're taking a flight. No worries. Hi, we would like to archive your work. Can we get
+in touch? That's the sort of background idea that I've had using this portal. Like, sure,
+making which accessible is the primary goal and will be fantastic and great and useful.
+But in the end, I want to make sure that the agreements are of help because that gives us
+preservation for the long term. OK. I'm seeing how all of this kind of works together to
+make it so you have a lot of range that you get to work with to archive games. It's amazing.
+Yeah. Yeah. And it's also for us, mostly a lot of pioneering, right? It's finding stuff,
+seeing how it works. And I was like, I spoke with Garrett, a few months back,
+and he was like very much when we began our conversation, like, I'd like to thank you guys
+because you're kind of also doing this and we're all in this together. I'm like,
+why never considered that? But I'm glad to hear it at the very least. Like, again, we've not been
+doing this as long as like Australia, for example, they are really ahead of the curve if you ask me.
+But also the Australian community is so different from the Netherlands. There's no
+there's no equivalent for it. Like we're talking about another continent. Like,
+their rules are so on their own. And the same in Japan, where I think the Japan
+software preservation group is very much doing good work, but they are running into their own
+limitations with copyright. Yeah, they're running into a whole bunch of stuff and
+don't necessarily have the resources. Yeah, exactly. She's amazing, but strange and
+they also have the same with the VHHF. Like, for me, that's a very much like a wow, it's a
+central hub. I'm always miff when when the slogan is like, it's just us like Frank with all due respect.
+I know it's just us, but it's also just us in US that then that I'm fine with it. Yeah.
+Yeah. And then I'm pretty sure Andrew Borman will knock down your door as well.
+I've managed to avoid him thus far. I will. I know that it's super nice.
+I would have loved to attend the Save the Game events later this year, but travel to the US is
+currently not at the fight. Yep, I don't recommend it. I don't know. I know. I wish it was a digital
+symposium because I would have loved to show everyone what we're doing. But yeah,
+yeah. We are looking at FM to try to see if we can organize something in Europe on a similar
+scale to bring all the European archives together. But that getting funding for that is very hard.
+We need we don't need a lot of money, but we do need money. Let's say the game's EU. That'd be great.
+Yeah, pretty much. Yeah. Yeah, that would be if I get to go to that in Rochester, that'd be the
+first time that I've ever been. I'm I'm hoping that it was. Chris said the same thing. Chris was
+like, you have to go to that. Yeah. I'm like, I'll figure out a way to New York, I guess. Yeah.
+All right. Do you have any other questions? Can I help you?
+That's everything. If I think of anything else, I can always email you.
+Reach out email. My socials are in the emails. Well, like reach out whatever you like.
+Oh, much. This is amazing. Yeah. And if I if you need something to clarify as well,
+let us know. And again, if you're ever back in the Netherlands, let me know. Like, I would
+love to show you around here. There's a lot of fun things to see. There's there's so many things
+that I didn't. That was I was only there for a month. It was very when we were here again,
+when it was last summer. Oh, really? Oh, wow. Big 250. Oh, man. And that was it. That was a
+wild time to be in the Netherlands. Yeah, absolutely. Oh, man. But yeah, no, we managed to go kind of
+all over that lake, just just the western side of the Netherlands. How hard did we go south?
+We went at least all the way down to Rotterdam. Yeah, yeah. And what did the part to a whole
+bunch of? Yeah, good stuff. It was really cool. Actually, there's two afterling video games.
+I'm still trying to get worked on. Like, yeah, that's our a sorry licensed afterling tycoon,
+I think, which is like a roller coaster tycoon thing, but for afterling, it was not good. But
+I know Atari still has the rights. Huh, until this moment, I never considered other like,
+I'm so used to the Disneyland video game that has been made like a hundred times.
+Yeah, I'd not consider that other theme parks might have their own video games at this point.
+There's a the one that was actually good was a lego land video game where you manage a lego
+land theme park. Exactly. That was pretty nice. Yeah.
+Well, that's amazing because then that would actually that would have information for what
+afterling was like during that era too. Pretty 2000s. Yeah. That's so fun. All right. I could
+talk forever. I would love to say the same. Anytime you want to talk about the stuff, I love it.
+It's so exciting. Yeah. And I don't know where I've got like six, seven weeks left in this
+program. And then I have an MLIS and have no idea what to put it on. But I'm going to force
+a lot of conversations about games, games, librarianship, which is not quite games preservation. There's
+a little little niche in there. It's because I've gotten to see so many amazing projects
+that are all in conversation with each other in ways that you work with with F-GAMP and how
+that stretches out to so many different institutions. And then there's a hub for reaching out to other
+entire continents is is amazing. Yeah. If you if you need if you have a request for F-GEM members,
+like you want to talk to more of the European side because I'm only sharing our perspective.
+There's a different perspective if you talk to the people in Germany, in UK, in France.
+We have a large network like if you seriously want to talk to someone one of our other board
+members is from GOG as well might be interesting. It would be very interesting. And the Embracer
+Game Archive is also interesting for their physical collection. They are very approachable.
+I would love to talk about to is there a librarian at the Embracer? Yes. I know I know them both very
+well. Natalia and her husband, Juka, they're very nice. Yeah. I would love to talk to them.
+Because I'm going to talk to a couple of in industry librarians. I got and talked to Blizzard
+Archives, which was an amazing conversation. But talking to Embracer, that's a whole different
+world with tons of cool opportunities and stuff. And they have a very weird job.
+They are also very weird because they are technically a privately owned archive in that sense.
+But also because they're CEO, Las Vingfoss is just such an enthusiast about games preservation
+in that sense. Here's 4 million euro buying me an archive. That's pretty much what happened.
+And then they hired people who worked. So Natalia, her background is actually a municipal archive.
+So she has a very dedicated history in formal archives, but games have always been her passion.
+So she was ideal for that. I can easily get you in touch with her. She's really nice.
+Just send me an email and I'll introduce you. That would be a whole wild perspective that I would
+die for. That would be awesome. Because I've been trying to figure this out.
+Publisher-based archives. There's just a lot of indie publishers that have been
+agglomerating in the US and all over the place. And they are becoming very quickly a target of
+preservation archive aims like, all right, what are you all doing? That's very interesting to work
+on this stuff. Because they just have they happen to start. They're being big enough to be hubs
+for a lot of different work. And sometimes it's localized by a location. Other times it's
+localized by just like, yeah, we've been working for the last five years. So we have this five-year
+era that's just, that's our stuff. Yeah, we have that for the Dutch Games Garden,
+which was the industry hub in the Netherlands, where a lot of the people got started and it was
+founded back in 2008. And it got defunct last year. So we have their archive from 2008 to 2025,
+which is just more so representative of the Dutch ecosystem and the people that were incubated
+there, but also how they made their game. So Flumber got started there. Ronimo game,
+who did awesome knots and the original guys from Blub. There's a lot of like people there that
+grew up in that ecosystem and then made games out of the young who made hidden folks as well.
+Like there's a lot of documentation on that as well, like, especially how they run that incubator.
+Yep, that's amazing. Cool stuff. Yeah, I know the questions. I would love to
+chat with anyone else. I'd just be happy to keep these conversations going just because I think
+this is so much. Yeah, just be careful. You don't drown in them because there's a lot of us still
+out there. Like often disregarded six weeks. Yeah, we're all being experienced at talking now
+because of the whole stop killing games thing, which is also playing in the background. Oh my god,
+we're talking about stop killing games. We are not involved in it. And they are approaching it
+from a consumer advocacy side. So we have nothing much to add to it, though we are very much like
+waving the flag of like, Hey, games are culture approached in this cultural heritage, not as
+consumer products for preservation purposes. Yeah, no, that that's another
+old arm. I'm not a can of worms entirely. No, I can't worms, but it overlaps with the
+game's advocacy of preservation in a weird way. And oh my god. Yeah, and it's for nowadays,
+and really much like thing, but then it got grounds of the UK and oh my god,
+yeah, that was that was a yep, games are an international community. Very much so,
+yeah, every car and a lot of gamers and a lot of gamers realizing oh wait,
+our country has different laws than the US. Like fair trade is fair. Fair use is not a thing
+here. Please don't think that you can just use anything. It's it doesn't exist.
+Because yeah, DMCA and fair uses are only defense in the US. Yeah, yeah, and again,
+and we are we are screwed by DMCA, but fair use, we don't get the profit off off. So we're like,
+yeah, great. Thank you ads. Hello. Awesome. No, that's so funny. Yeah, I'm a lot of questions and
+it was the funniest thing immediately. So one of the I do live streams, one of the live streams
+that I do is I do a weekly point and click. Sweet two months after I get back from the Netherlands.
+I am shown Rusty Lake. I'm shown Rusty Lake Gapes and I'm like,
+awesome. And I literally last Tuesday, I finished Mr. Rabbit's Magic. So I finished their last,
+their newest one. Very good. Holy. If you're if you're back there again,
+their offices are in Amsterdam and they have our in office escape room. If you come by the
+office, they have a little escape room for everyone. It's very funny. No, you know what?
+I'm not going. I'm not. No, not going back or just just planning that seat. All right.
+I tell my discord and they're going to be very mad. Yeah, it's very, very awesome.
+They're great, they're great, they're great people though. We've loved working with them.
+It's great. Awesome. Cool. If you need anything, give a yell and I wish you a very pleasant evening
+and I hope you get some sleep. I'm from Seattle. It's April the 20th.
+It's a national holiday for me. Oh, really? I didn't know where. Oh, yeah. No, it's it's a it's
+a green holiday for us in Seattle and the Emerald City and I've got a lot of substance to celebrate
+with. So good. Sounds great. I don't have class on Monday. So I'll good day for me. Even better,
+perfect. They are prepared. All right, great. Thanks.
+Bye.
