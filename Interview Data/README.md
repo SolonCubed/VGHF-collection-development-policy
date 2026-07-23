@@ -1,5 +1,5 @@
 # Interview Data
-These files contain interview data from five media libraries and archives:
+These files contain interview data from five media libraries and archives as well as a final report on the whole endeavor:
 
 - The National Film and Sound Archive of Austraila (February 19th, 2026)
 - Blizzard Archive (January 21st, 2026)
