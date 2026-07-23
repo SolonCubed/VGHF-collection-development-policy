@@ -4,7 +4,7 @@ Solon designed a survey for The Video Game History Foundation to run from May 7t
 
 These responses were separated into seven user roles: Indie Historians, Pro Historians, Indie Devs, Pro Devs, Educators/Students, Library/Archive/Museum workers, and Enthusiasts/Collectors. 
 
-This folder has four sets of data:
+This folder has four sets of data along with the final report:
 - (2) Spreadsheets of raw and processed results (.xlsx)
 - (8) Documents with results processed into graphs (.pdf)
 - (1) Written version of all questions asked to users, includes survey logic (.docx)
